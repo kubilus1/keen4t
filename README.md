@@ -6,13 +6,18 @@ Based on the Keen 4 composite CGA patch.  See:
 
 ## Usage
 
-Get a copy of Keen 4 CGA.  You should see a checksum like: 
+1.  Get a copy of Keen 4 CGA.  You should see a checksum like: 
 ```
 $ md5sum KEEN4C.EXE
 ebf2e480fb1c44904ccd3b22677d6625  KEEN4C.EXE
 ```
 
-Run in dosbox, or on your Tandy 1000:
+2.  Extract your keen4 CGA zip.
+
+3.  Copy KEEN4T.BAT, KEEN4T.PAT, CK4PATCH.EXE, c16graph.ck4, and cgahead.ck4
+    to the same location.
+
+4. Run in dosbox, or on your Tandy 1000:
 
 ```
 > KEEN4T.BAT
