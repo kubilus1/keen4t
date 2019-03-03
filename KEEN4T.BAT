@@ -1,0 +1,2 @@
+@echo off
+CK4PATCH KEEN4T.PAT
